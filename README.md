@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=naoki-ah4&count_private=true&show_icons=true&theme=radical"/>
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naoki-ah4&theme=radical&layout=compact"/>
 </div>
-<img src="https://github-profile-trophy.vercel.app/?username=naoki-ah4" />
+<img src="https://www.naoki-workspace.net/gh_profile/trophy" />
 
 <!--
 **naoki-ah4/naoki-ah4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
