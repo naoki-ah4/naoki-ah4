@@ -1,7 +1,7 @@
  <!--## Hi there 👋-->
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=naoki-ah4&count_private=true&show_icons=true&theme=radical"/>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naoki-ah4&theme=radical&layout=compact"/>
+  <img src="https://www.naoki-workspace.net/gh_profile/stats_radical"/>
+  <img align="top" src="https://www.naoki-workspace.net/gh_profile/stats_compact"/>
 </div>
 <img src="https://www.naoki-workspace.net/gh_profile/trophy" />
 
